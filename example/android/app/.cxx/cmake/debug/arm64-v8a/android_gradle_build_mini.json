@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/egor/AndroidStudioProjects/native_add/example/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/egor/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/egor/AndroidStudioProjects/native_add/example/android/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native_add-Debug-arm64-v8a": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/egor/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/egor/AndroidStudioProjects/native_add/example/android/app/.cxx/cmake/debug/arm64-v8a --target native_add",
+      "abi": "arm64-v8a",
+      "output": "/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so"
+    }
+  }
+}

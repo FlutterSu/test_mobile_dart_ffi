@@ -1,0 +1,8 @@
+Executable : /Users/egor/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/Users/egor/AndroidStudioProjects/native_add/example/android/app/.cxx/cmake/debug/x86_64
+--target
+native_add
+jvmArgs : 
+
