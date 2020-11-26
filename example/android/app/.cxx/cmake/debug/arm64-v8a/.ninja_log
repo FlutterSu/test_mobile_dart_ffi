@@ -1,3 +1,25 @@
 # ninja log v5
+0	37	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+37	111	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
 0	38	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
-38	71	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+38	112	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	39	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+39	113	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+1	42	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+42	121	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	39	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+39	114	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+1	48	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+48	167	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	44	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+45	172	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	38	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+39	114	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	45	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+45	166	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	45	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+46	158	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	47	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+47	165	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
+0	48	0	CMakeFiles/native_add.dir/Users/egor/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	f0ce2297f4b243c9
+48	169	0	/Users/egor/AndroidStudioProjects/native_add/example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	f896e132c461f225
